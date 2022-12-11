@@ -4,7 +4,7 @@ export default {
   // 设置获取消息的重试次数
   retryTimes: 3,
   // 在群组中设置唤醒微信机器人的关键词
-  groupKey: '@米巴',
+  groupKey: '',
   // 在私聊中设置唤醒微信机器人的关键词
   privateKey: '@米巴',
   // 重置上下文的关键词，如可设置为reset
